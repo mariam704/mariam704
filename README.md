@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Mariam Abdelrazek</h1>
-<h3 align="center">A passionate frontend developer from Egypt I am a highly skilled junior front end developer with over 3 years of experience in creating user-friendly, responsive websites.</h3>
+<h3 align="center">I’m a passionate Front-End Developer from Egypt with one year of hands-on experience in building responsive, user-friendly websites. I specialize in turning designs into interactive digital experiences using modern web technologies. Eager to grow, collaborate, and contribute to innovative projects that make a real impact.</h3>
 
 - 🌱 I’m currently learning **Next.js**
 
